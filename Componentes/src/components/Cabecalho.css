@@ -1,5 +1,5 @@
 .Cabecalho-container{
 
-    background-color: rgb(186, 152, 218);
-    color: azure;
+    background-color: var(--cor-3);
+    color: var(--cor-4);
 }

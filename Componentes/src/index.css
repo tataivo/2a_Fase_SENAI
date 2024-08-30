@@ -1,0 +1,11 @@
+:root{
+    --cor-1: #3a5a40;
+    --cor-2: #588157;
+    --cor-3: #a3b18a;
+    --cor-4: #fefae0;
+}
+
+body{
+
+    background-color: var(--cor-1);
+}
