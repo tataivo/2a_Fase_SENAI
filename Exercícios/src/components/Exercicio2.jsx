@@ -14,7 +14,7 @@ function Exercicio2() {
             setResultado('O número é par e positivo!')
         }else{
 
-            setResultado('O número não é par e postivo ao mesmo tempo!')
+            setResultado('O número não é par e positivo ao mesmo tempo!')
         }
     }
   return (
