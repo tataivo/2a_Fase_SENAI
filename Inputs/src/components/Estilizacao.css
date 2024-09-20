@@ -1,0 +1,21 @@
+
+
+input{
+
+    width: 150px;
+    border-radius: 6px;
+    border: none;
+    height: 20px;
+}
+
+label{
+    color: white;
+    font-size: large;
+}
+
+div{
+    padding: 10px;
+}
+
+
+
